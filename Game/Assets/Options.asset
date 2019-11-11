@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c173b0cc0d5eb9b448224e413d94a533, type: 3}
+  m_Name: Options
+  m_EditorClassIdentifier: 
+  populationSize: 8
+  mutationRate: 0.3026316
+  elitism: 2
+  blockSize: 4
